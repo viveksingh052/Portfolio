@@ -9717,8 +9717,8 @@ textarea.form-control {
     background-size: cover;
     background-position: top right;
     background-repeat: no-repeat;
-    border-radius: 50%; This makes the image circular
-    border: 5px solid #ffbd39; /* This adds your yellow border */
+    border-radius: 50%; 
+    border: 5px solid #ffbd39; 
     box-sizing: border-box;
 }
 
